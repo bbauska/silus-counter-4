@@ -45,11 +45,11 @@ h2 {
 h3 {
   font-size: 26px;
   justify-content; center;
-  background-color: darkgreen;
-  color: rgb(200,200,200);
+  background-color: lime;
+  color: rgb(255,255,255);
 }
 h4 {
-  color: darkgreen;
+  color: lime;
   font-size: 14px;
 }
 
